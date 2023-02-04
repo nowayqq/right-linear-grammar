@@ -1,0 +1,4 @@
+A->aa|cc|BC
+B->f
+C->cv|lk
+D->q|o
